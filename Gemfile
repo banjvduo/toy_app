@@ -19,6 +19,8 @@ gem 'uglifier', '3.2.0'
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '4.2.2'
+# resolve the TypeError problem on Windows
+gem 'coffee-script-source', '1.8.0'
 # jquery-rails
 gem 'jquery-rails', '4.3.1'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks

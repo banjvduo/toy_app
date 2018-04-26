@@ -1,3 +1,3 @@
 # README
 
-#### Rails 5 Tutorial Example 3
+#### Rails 5 Tutorial Example 2
